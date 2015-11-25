@@ -1,0 +1,22 @@
+review for lc3383  chizzinho plot 
+Military spending by continent: 
+CLARITY: 
+The plot is very intuative, easy to read and clear. Only unclear thing is the top side of the plot shwoing points and labled 
+spending in US$.
+I like the removal of frame on both sides and making it almost "sparkline" 
+THe units are great cuz there in %, so even if the continents spend an whole diffrent amount it is 
+kinda normalized and make it comparable and well conveyed. 
+You can see very easily patterns and trends- north america around 2000 is intresting and easy to detect
+
+
+ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether y
+ou think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to
+communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represen
+t the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or
+are they distracting you?
+the plot is very aesthetic. the lables are a bit too small 
+
+HONESTY: 
+I am not sure as I don;t now the data. but normalizing and shwoing data in precentage always disrots some of it and 
+make it more readable. You lose the units and end up with a relative assumption.
+Personaly I find the precetage a good way to visualize budgets but of course it is debatble 
