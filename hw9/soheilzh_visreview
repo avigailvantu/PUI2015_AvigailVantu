@@ -1,0 +1,20 @@
+review for :sz1433  soheilzh
+CLARITY:
+I think this graph showes two really diffrent units (subway vs citibike) and the big amount of MTA riders make it
+very hard to analyize any pattern in the citibike riders 
+The labes are too small and not clear- 'startdate' can probably be repalced with day, date or just get ride of it and make 
+the actual dates bigger. Also, no of entries only refers to subway and is very unclear for citibike riders, need to replace 
+with a more clear and general label
+
+
+ESTHETIC: 
+other than the units and the need to normalize or 'zoom in' to see the citibikers pattern better I think it is a clear 
+and easy way of ploting. very intuative to understand. About colors, red and blue are more associated with negative -positive 
+things. It would be better to have two non symbolized colors. Also, I'm not sure if the visualization just tries to convey 
+the diffrence in riders or is there another idea? 
+
+HONESTY:
+is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+I think it is deforming the citibike data by shwoing it as constent BUT it is only constnet if you compare it to 
+the mta riders (cuz there are so many more of them) and not if showing it on its on- then you'll find a big diffrence 
+among the times, days, seaons as weve seen in class 
