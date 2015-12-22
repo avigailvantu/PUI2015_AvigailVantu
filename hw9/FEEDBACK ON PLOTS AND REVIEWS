@@ -1,0 +1,45 @@
+sorry, but your directory was a mess your reviews were not in md files as requested and 
+did not include the plot in the file. i was not sure what your submission was, and the folder ended up called hw 8 and hw9....
+clean up your repo.
+it is important on the job market!!
+
+the content was ok but i have tot ake points off for the reasons mentioned above 9/10
+
+NOTES ON THE PLOTS YOU REVIEWED
+================================
+
+chizzino
+=========
+
+y axis extends above the data space
+
+remove the empty space below 5 %
+
+consider log space to cpmress the gaps and allow differences in the countries reporting small percentages to be seen
+
+what is the legend on top? entirely not clear
+
+labels for countries too small
+
+top labels too small
+
+
+ama908
+=======
+the differences year by year are tiny so it is hard to understand why they are highlighted as they are by color: it is what draws most of the attention and it is not the message that tries to be conveyed. 
+
+axis labels too small
+
+the units on the y axis should be compresses: use tens of thousands and plot single digit numbers
+
+colors are lost by the 10% of the population that is color blind that cannot tell the difference between 2007 and 2008 etc
+
+
+
+soheilzh
+=======
+a meaningful comparison is impossible due to the large difference in the men values. if that was the point then a time series would be unnecessary. if the structure should have been compared then a time series should have been modified by multiplying by an appropriate constant and indicating that in the legend 
+
+small axes labels
+
+the axis labels should be words, not variable names: startdate -> "start date (startdate)"
